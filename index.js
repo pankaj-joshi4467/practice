@@ -49,4 +49,26 @@
 //     }
 
 // }
-// console.log(maxium)  // 8
+// console.log(maxium)  // 15
+
+
+ //// 6. find the second largest number in an array
+
+// var arr = [3,5,7,2,8,1,15];
+ 
+// var max1 = arr[0];
+// var max2 = arr[0];
+
+// for(let i=1;i<arr.length;i++){
+//     if(arr[i]>max1){
+//         max2 = max1;
+//         max1 = arr[i];
+
+//     }
+//     else if(arr[i]>max2 && arr[i]!==max1){
+//         max2 = arr[i];
+
+//     }
+// }
+// console.log(max2)  // 8
+
