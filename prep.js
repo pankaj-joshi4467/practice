@@ -5,4 +5,3 @@ console.log(hi)
 
 
 c=100
-console.log(c)

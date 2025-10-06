@@ -33,11 +33,11 @@
 //     for(let i =2;i<n;i++){
 //         fib.push(fib[i-1]+fib[i-2]);
 //     }
-//     // return fib
+//      return fib
 // }
 // console.log(fibonacci(10)) 
 
-// // 5. find the largest number in an array
+// 5. find the largest number in an array
 
 // var arr = [3,5,7,2,8,1,15];
 
@@ -52,7 +52,7 @@
 // console.log(maxium)  // 15
 
 
- //// 6. find the second largest number in an array
+ // 6. find the second largest number in an array
 
 // var arr = [3,5,7,2,8,1,15];
  
@@ -71,4 +71,6 @@
 //     }
 // }
 // console.log(max2)  // 8
+
+
 
