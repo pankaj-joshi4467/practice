@@ -73,4 +73,16 @@
 // console.log(max2)  // 8
 
 
+//  // // 7. count char in string 
+// let str = "Hello World";
+
+// let count = 0;
+
+// for (let i = 0; i < str.length; i++) {
+//   if (str[i] !== " ") {   // ignore spaces
+//     count++;
+//   }
+// }
+
+// console.log("Total characters (without spaces):", count);
 
