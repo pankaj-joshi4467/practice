@@ -86,3 +86,28 @@
 
 // console.log("Total characters (without spaces):", count);
 
+// // 8. reverse a words in a String 
+// let str = " my name is pankaj"
+
+// let arr = str.split(" ")
+
+// let sentence = ""
+
+// for(i = arr.length-1 ; i >=0 ;i--){
+//     sentence+=arr[i]+ " "
+// }
+// console.log(sentence)
+
+// // .9 find the duplicates items in array 
+
+// const arr = [1,2,4,5,67,86,4,2,1]
+
+// const duplicates = arr.filter((item,index)=>
+
+//     arr.indexOf(item) !== index
+
+// )
+// console.log([...new Set(duplicates)])
+
+
+
