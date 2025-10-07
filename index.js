@@ -41,15 +41,15 @@
 
 // var arr = [3,5,7,2,8,1,15];
 
-// maxium = arr[0];
+// max1 = arr[0];
 
 // for(let i=1;i<arr.length;i++){
-//     if(arr[i]>maxium){
-//         maxium = arr[i];
+//     if(arr[i]>max1){
+//         max1 = arr[i];
 //     }
 
 // }
-// console.log(maxium)  // 15
+// console.log(max1)  // 15
 
 
  // 6. find the second largest number in an array
@@ -108,6 +108,5 @@
 
 // )
 // console.log([...new Set(duplicates)])
-
 
 
